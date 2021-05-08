@@ -6,7 +6,7 @@ O-umajirushi is a unique 17th-century compendium of samurai heraldry. It is the 
 
 You can download a PDF copy of my annotated translation of O-umajirushi below. I want this translation to be available to anyone who's interested, so I'm making the PDF available on a "pay-what-you-want" basis. You can get the  PDF for  whatever you feel the it's worth, or whatever your budget allows. You can download it for free if you want to; just put in zero. You can also download it for free, look at it, and then come back to pay me later if you decide that's what you want to do.  If you do chip in something, I'll appreciate it. But more importantly, I hope you enjoy reading my translation of O-umajirushi.
 
-<div>
+<p>
 <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/uxnoC?wanted=true">Get as PDF</a>
 <br />
@@ -26,7 +26,7 @@ $<input id="amt" type="text" name="amount" value="" placeholder="Enter Amount ($
 src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif"
 alt="PayPal - The safer, easier way to pay online" onclick="var amt = document.getElementById('amt'); if (amt.value == '') { alert('Please enter amount.'); return false; } if (amt.value == 0) { alert('To pay $0, please use the Gumroad button above.'); return false; }">
 </form>
-</div>
+</p>
 
 ## Hard Copy
 
