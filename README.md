@@ -31,3 +31,34 @@ alt="PayPal - The safer, easier way to pay online" onclick="var amt = document.g
 ## Hard Copy
 
 You can order a paperback copy of O-umajirushi: A 17th-Century Compendium of Samurai Heraldry directly from me and also from other booksellers (ISBN 978-0-692-37740-6).  There are also a small number of remaining copies of the limited edition deluxe hardcover available from me only.  (Unlike the copies sent to Kickstarter backers, these will be unsigned.)
+
+<p>
+<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/PCIHZ?wanted=true">Buy Hardcover ($60)</a> &nbsp;&nbsp; <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/eJycY?wanted=true">Buy Paperback ($25)</a>
+<br />
+<br />
+<a href="https://www.portersquarebooks.com/book/9780692377406">Buy Paperback from Porter Square Books</a>
+<br />
+<br />
+<a href="https://www.powells.com/book/o-umajirushi-9780692377406">Buy Paperback from Powell's Books</a>
+<br />
+<br />
+<a href="http://www.barnesandnoble.com/w/o-umajirushi-xavid-kih-pretzer/1121796273">Buy Paperback from Barnes & Noble</a>
+<br />
+<br />
+<a id="pplink2" href="javascript:document.getElementById('pplink2').style.display = 'none';document.getElementById('ppform2').style.display = 'block'; undefined;">Buy via PayPal</a>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="ppform2" style="display: none">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XQPG3C2FZZMYC">
+<table style="margin: auto">
+<tr><td><input type="hidden" name="on0" value="Version">Version</td></tr><tr><td><select name="os0">
+	<option value="Paperback">Paperback $25.00 USD</option>
+	<option value="Hard Cover">Hard Cover $60.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</p>
