@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Get the Translation
 
-You can use the [editor on GitHub](https://github.com/xavidotron/o-umajirushi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+O-umajirushi is a unique 17th-century compendium of samurai heraldry. It is the earliest surviving color compendium of Japanese crests and heraldry. At the time, woodblock printing was just starting to allow for widespread distribution of books in Japan. O-umajirushi took advantage of this technology to make color reproductions of the various banners and other devices used by 170 different samurai commanders. With the support of my [Kickstarter](https://www.kickstarter.com/projects/xavid/o-umajirushi-17th-century-samurai-heraldry) backers, I've put together a translation of O-umajirushi annotated with the symbolism and stories behind the banners. My book presents copies of the original pages of O-umajirushi with translations, annotations, explanations, and comparisons, as well as 30 pages of context, background information, and historic images. It provides an in-depth look at samurai heraldry and into a key historical source. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PDF
 
-### Markdown
+You can download a PDF copy of my annotated translation of O-umajirushi below. I want this translation to be available to anyone who's interested, so I'm making the PDF available on a "pay-what-you-want" basis. You can get the  PDF for  whatever you feel the it's worth, or whatever your budget allows. You can download it for free if you want to; just put in zero. You can also download it for free, look at it, and then come back to pay me later if you decide that's what you want to do.  If you do chip in something, I'll appreciate it. But more importantly, I hope you enjoy reading my translation of O-umajirushi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hard Copy
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xavidotron/o-umajirushi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can order a paperback copy of O-umajirushi: A 17th-Century Compendium of Samurai Heraldry directly from me and also from other booksellers (ISBN 978-0-692-37740-6).  There are also a small number of remaining copies of the limited edition deluxe hardcover available from me only.  (Unlike the copies sent to Kickstarter backers, these will be unsigned.)
