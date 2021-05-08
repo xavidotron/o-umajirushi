@@ -9,10 +9,8 @@ You can download a PDF copy of my annotated translation of O-umajirushi below. I
 <div>
 <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/uxnoC?wanted=true">Get as PDF</a>
-
 <br />
 <br />
-
 <a id="pplink" href="javascript:document.getElementById('pplink').style.display = 'none';document.getElementById('ppform').style.display = 'block'; undefined;">Get as PDF via PayPal</a>
 <FORM id="ppform" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="display: none">
 <INPUT TYPE="hidden" name="cmd" value="_xclick">
