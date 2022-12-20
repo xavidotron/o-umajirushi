@@ -36,7 +36,9 @@ alt="PayPal - The safer, easier way to pay online" onclick="var amt = document.g
 You can order a paperback copy of O-umajirushi: A 17th-Century Compendium of Samurai Heraldry directly from me and also from other booksellers (ISBN 978-0-692-37740-6).  There are also a small number of remaining copies of the limited edition deluxe hardcover available from me only.  (Unlike the copies sent to Kickstarter backers, these will be unsigned.)
 
 <p>
-<a class="gumroad-button" href="https://gumroad.com/l/PCIHZ?wanted=true">Buy Hardcover ($60)</a> &nbsp;&nbsp;
+<a class="gumroad-button" href="https://gumroad.com/l/PCIHZ?wanted=true">Buy Hardcover ($60)</a>
+<br />
+<br />
 <a class="gumroad-button" href="https://gumroad.com/l/eJycY?wanted=true">Buy Paperback ($25)</a>
 <br />
 <br />
